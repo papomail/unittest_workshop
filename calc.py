@@ -16,11 +16,11 @@ def divide(a,b):
 
 
 
-
 def complicated_function(a,b,c,d,e,f):
-    the_value=multiply( substract(add(a,b),divide(d,c)), e )
+    the_value=add( substract(multiply(a,b),divide(d,c)), e )
     print(f'The value you need is {the_value}')
     
 
+
 if __name__ == "__main__":
-	complicated_function(5,6,5,8,1,3)
+	complicated_function(5,2,4,8,1,3)
