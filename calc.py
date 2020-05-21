@@ -18,8 +18,8 @@ def divide(a,b):
 
 
 def complicated_function(a,b,c,d,e,f):
-    the_value=multiply(substract(add(a,b),divide(d,c)),e)
+    the_value=multiply( substract(add(a,b),divide(d,c)), e )
     print(f'The value you need is {the_value}')
     
 
-complicated_function(2,3,5,8,0,4)
+complicated_function(5,6,5,8,1,3)
