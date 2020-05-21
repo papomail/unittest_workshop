@@ -1,2 +1,2 @@
 # unittest_workshop
-Files for to use in our section meeting presentation
+Files for our section meeting presentation
