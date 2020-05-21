@@ -22,4 +22,5 @@ def complicated_function(a,b,c,d,e,f):
     print(f'The value you need is {the_value}')
     
 
-complicated_function(5,6,5,8,1,3)
+if __name__ == "__main__":
+	complicated_function(5,6,5,8,1,3)
